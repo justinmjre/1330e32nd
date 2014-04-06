@@ -219,8 +219,8 @@
 										<ul>
 											<li>2 Bed - 1 Bath</li>
 											<li>913 Sq Ft - 4,000 Lot</li>
-											<li>List:2/15/14 - Sold: 2/27/14</li>
-											<li>List: $299,900 - SOLD $310,000</li>
+											<li>List: 2/15/14 - Sold: 3/27/14</li>
+											<li>List: $299,900 - Sold: $310,000</li>
 										</ul>
 									</article>
 								</div>
@@ -232,8 +232,8 @@
 										<ul>
 											<li>2 Bed - 1 Bath</li>
 											<li>1,416 Sq Ft - 3,000 Lot</li>
-											<li>Pending: 2/26/14</li>
-											<li>List: $280,000 - COE: $245,000</li>
+											<li>List: 3/13/14 - Sold: 4/4/14</li>
+											<li>List: $228,000 - Sold: $245,000</li>
 										</ul>
 									</article>
 								</div>
