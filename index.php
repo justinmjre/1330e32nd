@@ -252,7 +252,7 @@
 							<div class="row">
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
+										<a href="images/comp1a.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
 										<h3><strong>3076 22nd Ave</strong></h3>
 										<ul>
@@ -265,7 +265,7 @@
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
+										<a href="images/comp2a.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
 										<h3><strong>2807 Vallecito Place </strong></h3>
 										<ul>
@@ -278,7 +278,7 @@
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
+										<a href="images/comp3a.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
 										<h3><strong>2129 25th Ave</strong></h3>
 										<ul>
