@@ -202,12 +202,12 @@
 									<article class="item">
 										<a href="images/sale1.jpg" class="image full fancybox"><img src="images/sale1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>15 Edgecroft Road - Kensington</strong></h3>
+										<h3><strong>1329 E 32nd St - Oakland</strong></h3>
 										<ul>
-											<li>4 Bed - 3 Bath</li>
-											<li>2,023 Sq Ft -  5,141 Lot</li>
-											<li>List: 9/6/13 - Sold: 11/19/13</li>
-											<li>List: $748,000 - SOLD $780,000</li>
+											<li>3 Bed - 2 Bath</li>
+											<li>1,410 Sq Ft -  3,000 Lot</li>
+											<li>List: 12/19/13 - Sold: 1/21/14</li>
+											<li>List: $398,988 - SOLD $400,000</li>
 										</ul>
 									</article>
 								</div>
@@ -215,12 +215,12 @@
 									<article class="item">
 										<a href="images/sale2.jpg" class="image full fancybox"><img src="images/sale2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>1737 Spruce St - San Leandro</strong></h3>
+										<h3><strong>2773 Garden St - Oakland</strong></h3>
 										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,096 Sq Ft - 5,760 Lot</li>
-											<li>List:11/21/13 - Sold: 12/5/13</li>
-											<li>List: $399,900 - SOLD $477,000</li>
+											<li>2 Bed - 1 Bath</li>
+											<li>913 Sq Ft - 4,000 Lot</li>
+											<li>List:2/15/14 - Sold: 2/27/14</li>
+											<li>List: $299,900 - SOLD $310,000</li>
 										</ul>
 									</article>
 								</div>
@@ -228,12 +228,12 @@
 									<article class="item">
 										<a href="images/sale3.jpg" class="image full fancybox"><img src="images/sale3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>2427 State St - San Leandro</strong></h3>
+										<h3><strong>2014 13th Ave - Oakland</strong></h3>
 										<ul>
-											<li>3 Bed - 1 Bath</li>
-											<li>1,018 Sq Ft - 7,936 Lot</li>
+											<li>2 Bed - 1 Bath</li>
+											<li>1,416 Sq Ft - 3,000 Lot</li>
 											<li>Pending: 2/26/14</li>
-											<li>List: $380,000 - COE: $426,000</li>
+											<li>List: $280,000 - COE: $245,000</li>
 										</ul>
 									</article>
 								</div>
