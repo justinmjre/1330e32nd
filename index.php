@@ -254,12 +254,12 @@
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>279 Lexington Ave</strong></h3>
+										<h3><strong>3076 22nd Ave</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>1,119 Sq Ft -  5,100 Lot</li>
-											<li>List: 12/7/13 - Sold: 1/2/14</li>
-											<li>List: $397,000 - SOLD $415,000</li>
+											<li>1 Bed - 1 Bath</li>
+											<li>786 Sq Ft -  2,610 Lot</li>
+											<li>List: 3/13/13 - Sold: 3/22/13</li>
+											<li>List: $249,000 - SOLD $253,000</li>
 										</ul>
 									</article>
 								</div>
@@ -267,12 +267,12 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>171 Suffolk Dr </strong></h3>
+										<h3><strong>2807 Vallecito Place </strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>1,282 Sq Ft - 5,100 Lot</li>
-											<li>List: 11/8/13 - Sold: 12/16/13</li>
-											<li>List: $349,000 - SOLD $390,000</li>
+											<li>1 Bed - 1 Bath</li>
+											<li>685 Sq Ft - 1,326 Lot</li>
+											<li>List: 2/27/13 - Sold: 3/8/13</li>
+											<li>List: $195,000 - SOLD $219,000</li>
 										</ul>
 									</article>
 								</div>
@@ -280,18 +280,18 @@
 									<article class="item">
 										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>264 Best Ave</strong></h3>
+										<h3><strong>2129 25th Ave</strong></h3>
 										<ul>
-											<li>2 Bed - 1 Bath</li>
-											<li>1,224 Sq Ft - 5,040 Lot</li>
-											<li>List: 1/29/14 - Sold: 2/12/14</li>
-											<li>List: $349,900 - SOLD $375,000</li>
+											<li>1 Bed - 1 Bath</li>
+											<li>611 Sq Ft - 4,200 Lot</li>
+											<li>List: 6/19/13 - Sold: 10/10/13</li>
+											<li>List: $159,900 - SOLD $149,000</li>
 										</ul>
 									</article>
 								</div>
 							</div>
 							<br />
-							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=71f5ae3d-22d3-402f-a6ea-d2218e239214&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.jpg" /></a>
+							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=a0a96681-4bfe-4ec5-b5e6-d74573011905&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.jpg" /></a>
 						</div>
 					</section>
 			
