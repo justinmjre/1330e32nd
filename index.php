@@ -206,8 +206,8 @@
 										<ul>
 											<li>3 Bed - 2 Bath</li>
 											<li>1,410 Sq Ft -  3,000 Lot</li>
-											<li>List: 12/19/13 - Sold: 1/21/14</li>
-											<li>List: $398,988 - SOLD $400,000</li>
+											<li>List: 12/19/13 - Sold: 3/7/14</li>
+											<li>List: $398,988 - SOLD $408,000</li>
 										</ul>
 									</article>
 								</div>
@@ -220,7 +220,7 @@
 											<li>2 Bed - 1 Bath</li>
 											<li>913 Sq Ft - 4,000 Lot</li>
 											<li>List: 2/15/14 - Sold: 3/27/14</li>
-											<li>List: $299,900 - Sold: $310,000</li>
+											<li>List: $299,900 - Sold: $318,000</li>
 										</ul>
 									</article>
 								</div>
